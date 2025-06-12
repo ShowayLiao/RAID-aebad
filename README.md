@@ -16,7 +16,7 @@ sh AeBAD_train.sh
 ```
 ---
 ## Results
-inference time per picture:196.31ms
+inference time per batch:196.31ms
 
 FLOPS: 77.19G
 
