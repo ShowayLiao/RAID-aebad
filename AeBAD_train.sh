@@ -1,0 +1,1 @@
+python train.py --obj AeBAD_S --data_path /home/wangpeng/lsw/lsw/AeBAD/
